@@ -1,0 +1,6 @@
+applied_scientist/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+models/
